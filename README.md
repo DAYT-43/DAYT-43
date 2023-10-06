@@ -13,8 +13,7 @@
 
 :mailbox: Связаться со мной вы пожете по: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/SPECTRRODIUM)</a>.
 
-![Profile views counter](https://komarev.com/ghpvc/?username=DAYT-43&&style=flat-square)  
-
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=DAYT-43)
 
 ⚠️ Сейчас профиль находится в стадии наполнения завершенными проектами 📥
 ---
