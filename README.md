@@ -9,9 +9,9 @@
 ---
 :telescope: Люблю узнавать новое и заниматься самообразованием.
 
-:zap: В свободное время выполняю проекты и прохожу курсы.
+:zap: В свободное время выполняю проекты и прохожу курсы, участвую в хакатонах и соревнованиях на Kaggle
 
-:mailbox: Связаться со мной вы пожете по: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/SPECTRRODIUM)</a>.
+:mailbox: Контакт для связи: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/SPECTRRODIUM)</a>.
 
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=DAYT-43)
 
