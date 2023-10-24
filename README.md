@@ -9,7 +9,7 @@
 ---
 :telescope: Люблю узнавать новое и заниматься самообразованием.
 
-:zap: В свободное время выполняю проекты и прохожу курсы, участвую в хакатонах и соревнованиях на Kaggle
+:zap: В свободное время выполняю проекты и прохожу курсы, участвую в хакатонах и соревнованиях на [Kaggle](https://www.kaggle.com/dmitrysakhnov)
 
 :mailbox: Контакт для связи: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/SPECTRRODIUM)</a>.
 
