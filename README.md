@@ -1,12 +1,11 @@
 ----------------
 <p>
 
-   #### Привет! Меня зовут Дмитрий!
-   <img src="https://github.com/DAYT-43/Formalization/blob/main/gihubreadme.gif" align="right" width="400" height="245" />
+
+   ### Привет! Меня зовут Дмитрий!
+   
    Я аналитик данных с многогранным опытом в различных сферах бизнеса, стремлюсь к самосовершенствованию и желаю приносить измеримую ценность бизнесу благодаря грамотной работе с данными.
    
-
----
 :telescope: Люблю узнавать новое и заниматься самообразованием.
 
 :zap: В свободное время выполняю проекты и прохожу курсы, участвую в хакатонах и соревнованиях на [Kaggle](https://www.kaggle.com/dmitrysakhnov)
@@ -73,6 +72,6 @@
 ![Statistics](https://img.shields.io/badge/Statistics-090909??style=flat-square&logo=Statistics)
 
 
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=DAYT-43)
-
+  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=DAYT-43)
+    <img src="https://github.com/DAYT-43/DAYT-43/assets/80617386/d5a1b624-43b0-49ce-9fae-2a1d63dbdde8" align="centr" width="1000" height="100" />
 ---
