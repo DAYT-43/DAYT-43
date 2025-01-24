@@ -4,7 +4,6 @@
 
    ### Привет! Меня зовут Дмитрий!
 :mailbox: Контакт для связи: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/SPECTRRODIUM)</a>
-[![DISCORD Badge](https://img.shields.io/badge/-DISCORD-purple?style=flat&logo=Discord&logoColor=white)](https://discordapp.com/users/1051433073436270592/)</a>
 
 ### HARD SKILLS
 
