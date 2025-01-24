@@ -3,6 +3,12 @@
 
 
    ### Привет! Меня зовут Дмитрий!
+   Являюсь системным аналитиком.
+Профиль в GitHub частично отражает накопленный опыт в дата аналитике, актуальный же опыт по системному анализу предоставлю по запросу.
+   
+   I am a systems analyst.
+My GitHub profile partially reflects my experience in data analytics, but I will provide actual experience in system analysis upon request
+
 :mailbox: Контакт для связи: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/SPECTRRODIUM)</a>
 
 ### HARD SKILLS
