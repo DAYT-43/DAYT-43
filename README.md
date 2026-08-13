@@ -4,7 +4,7 @@
 
    ### Привет! Меня зовут Дмитрий!
    Являюсь системным аналитиком.
-Профиль в GitHub частично отражает накопленный опыт в дата аналитике, актуальный же опыт по системному анализу предоставлю по запросу.
+Профиль в GitHub частично отражает накопленный опыт в дата аналитике, актуальный же опыт по системному анализу в данный момент постепенно приземляю в GitHub.
    
    I am a systems analyst.
 My GitHub profile partially reflects my experience in data analytics, but I will provide actual experience in system analysis upon request
