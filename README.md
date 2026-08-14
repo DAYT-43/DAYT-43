@@ -3,7 +3,43 @@
 
 :mailbox: Контакт для связи: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/SPECTRRODIUM)
 
-![GitHub contribution matrix](github-matrix-contrib-v3-spectrrodium.gif)
+![SPECTRRODIUM](github-matrix-contrib-v3-spectrrodium.gif)
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=DAYT-43" alt="visitors" />
+  <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/DAYT-43/unique-visitors-badge/main/badge.json" alt="unique visitors (14d)" />
+</p>
+
+### KEY PROJECTS
+
+- [Ship-base](https://github.com/DAYT-43/Ship-base) — реестр кораблей России
+- [Analysis-of-tender-procedures](https://github.com/DAYT-43/Analysis-of-tender-procedures) — анализ тендеров (DataLens)
+- [Market-research-Ships-Treads-](https://github.com/DAYT-43/Market-research-Ships-Treads-) — исследование рынка протекторов в судостроении
+- [Classification-of-customer-feedback](https://github.com/DAYT-43/Classification-of-customer-feedback) — классификация отзывов
+- [recommendation-system](https://github.com/DAYT-43/recommendation-system) — рекомендательная система (Karpov.Courses)
+
+### РЕПОЗИТОРИИ ПО ГРУППАМ
+
+#### 📊 Аналитика данных / BI
+- [Ship-base](https://github.com/DAYT-43/Ship-base) — реестр кораблей России
+- [Market-research-Ships-Treads-](https://github.com/DAYT-43/Market-research-Ships-Treads-) — исследование рынка протекторов в судостроении
+- [Analysis-of-tender-procedures](https://github.com/DAYT-43/Analysis-of-tender-procedures) — анализ тендеров (DataLens)
+- [Stores_Map_Yandex_DataLens](https://github.com/DAYT-43/Stores_Map_Yandex_DataLens) — дашборд магазинов (DataLens)
+- [Classification-of-customer-feedback](https://github.com/DAYT-43/Classification-of-customer-feedback) — классификация отзывов
+- [Parsing-calories](https://github.com/DAYT-43/Parsing-calories) — парсинг калорийности продуктов
+- [parser_ship](https://github.com/DAYT-43/parser_ship) — парсер fleetphoto.ru
+
+#### 🤖 AI / ML
+- [recommendation-system](https://github.com/DAYT-43/recommendation-system) — рекомендательная система (Karpov.Courses)
+- [Kickstarter_project](https://github.com/DAYT-43/Kickstarter_project) — ML-предсказание успеха краудфандинга
+- [Karpov.Courses---START-ML2023](https://github.com/DAYT-43/Karpov.Courses---START-ML2023) — практика START ML
+
+#### 🐳 Форки
+- [Docker_course_K.C.](https://github.com/DAYT-43/Docker_course_K.C.) — материалы курса Docker
+- [system-design-101](https://github.com/DAYT-43/system-design-101) — визуальное объяснение системного дизайна (форк)
+
+#### 🔧 Полезное для GITHUB
+- [unique-visitors-badge](https://github.com/DAYT-43/unique-visitors-badge) — автообновляемый бейдж уникальных посетителей профиля (GitHub Traffic API)
 
 ### HARD SKILLS
 
@@ -27,13 +63,3 @@
 
 #### 7. ML (бэкграунд)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![CatBoost](https://img.shields.io/badge/-CatBoost-007EC6?style=flat) ![XGBoost](https://img.shields.io/badge/-XGBoost-007EC6?style=flat) ![LightGBM](https://img.shields.io/badge/-LightGBM-007EC6?style=flat) ![Optuna](https://img.shields.io/badge/-Optuna-007EC6?style=flat)
-
-### KEY PROJECTS
-
-- [Ship-base](https://github.com/DAYT-43/Ship-base) — реестр кораблей России
-- [Analysis-of-tender-procedures](https://github.com/DAYT-43/Analysis-of-tender-procedures) — анализ тендеров (DataLens)
-- [Market-research-Ships-Treads-](https://github.com/DAYT-43/Market-research-Ships-Treads-) — исследование рынка протекторов в судостроении
-- [Classification-of-customer-feedback](https://github.com/DAYT-43/Classification-of-customer-feedback) — классификация отзывов
-- [recommendation-system](https://github.com/DAYT-43/recommendation-system) — рекомендательная система (Karpov.Courses)
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=DAYT-43)
