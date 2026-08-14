@@ -20,6 +20,10 @@
 
 ### РЕПОЗИТОРИИ ПО ГРУППАМ
 
+#### 🔧 Полезное для GITHUB
+- [github-matrix-contrib-gif](https://github.com/DAYT-43/github-matrix-contrib-gif) — генератор бесшовной GIF «Матрица контрибуций» для README профиля
+- [unique-visitors-badge](https://github.com/DAYT-43/unique-visitors-badge) — автообновляемый бейдж уникальных посетителей профиля (GitHub Traffic API)
+
 #### 📊 Аналитика данных / BI
 - [Ship-base](https://github.com/DAYT-43/Ship-base) — реестр кораблей России
 - [Market-research-Ships-Treads-](https://github.com/DAYT-43/Market-research-Ships-Treads-) — исследование рынка протекторов в судостроении
@@ -37,9 +41,6 @@
 #### 🐳 Форки
 - [Docker_course_K.C.](https://github.com/DAYT-43/Docker_course_K.C.) — материалы курса Docker
 - [system-design-101](https://github.com/DAYT-43/system-design-101) — визуальное объяснение системного дизайна (форк)
-
-#### 🔧 Полезное для GITHUB
-- [unique-visitors-badge](https://github.com/DAYT-43/unique-visitors-badge) — автообновляемый бейдж уникальных посетителей профиля (GitHub Traffic API)
 
 ### HARD SKILLS
 
