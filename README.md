@@ -8,6 +8,8 @@
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=DAYT-43" alt="visitors" />
   <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/DAYT-43/unique-visitors-badge/main/badge.json" alt="unique visitors (14d)" />
+  <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/DAYT-43/github-stats-badges/main/stars.json" alt="stars earned" />
+  <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/DAYT-43/github-stats-badges/main/contributions.json" alt="contributions (last year)" />
 </p>
 
 ### KEY PROJECTS
@@ -23,6 +25,7 @@
 #### 🔧 Полезное для GITHUB
 - [github-matrix-contrib-gif](https://github.com/DAYT-43/github-matrix-contrib-gif) — генератор бесшовной GIF «Матрица контрибуций» для README профиля (2026)
 - [unique-visitors-badge](https://github.com/DAYT-43/unique-visitors-badge) — автообновляемый бейдж уникальных посетителей профиля (GitHub Traffic API) (2026)
+- [github-stats-badges](https://github.com/DAYT-43/github-stats-badges) — честные бейджи статистики профиля: Stars earned + Contributions (last year) (2026)
 
 #### 📊 Аналитика данных / BI
 - [Ship-base](https://github.com/DAYT-43/Ship-base) — реестр кораблей России (2023)
