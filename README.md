@@ -7,6 +7,7 @@
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=DAYT-43" alt="visitors" />
+  <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/DAYT-43/unique-visitors-badge/main/views.json" alt="views (14d)" />
   <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/DAYT-43/unique-visitors-badge/main/badge.json" alt="unique visitors (14d)" />
   <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/DAYT-43/github-stats-badges/main/stars.json" alt="stars earned" />
   <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/DAYT-43/github-stats-badges/main/contributions.json" alt="contributions (last year)" />
