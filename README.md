@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/DAYT-43/github-stats-badges/main/contributions.json" alt="contributions (last year)" />
 </p>
 
-### KEY PROJECTS
+### Ключевые проекты
 
 - [Ship-base](https://github.com/DAYT-43/Ship-base) — реестр кораблей России (2023)
 - [Analysis-of-tender-procedures](https://github.com/DAYT-43/Analysis-of-tender-procedures) — анализ тендеров (DataLens) (2023)
@@ -21,7 +21,7 @@
 - [Classification-of-customer-feedback](https://github.com/DAYT-43/Classification-of-customer-feedback) — классификация отзывов (2023)
 - [recommendation-system](https://github.com/DAYT-43/recommendation-system) — рекомендательная система (Karpov.Courses) (2023)
 
-### РЕПОЗИТОРИИ ПО ГРУППАМ
+### Репозитории по группам
 
 #### 🔧 Полезное для GITHUB
 - [github-matrix-contrib-gif](https://github.com/DAYT-43/github-matrix-contrib-gif) — генератор бесшовной GIF «Матрица контрибуций» для README профиля (2026)
